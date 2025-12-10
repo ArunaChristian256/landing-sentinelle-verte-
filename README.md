@@ -3,7 +3,7 @@
 Bienvenue dans **Sentinelle Verte**, un projet numérique engagé pour la protection de l’environnement.  
 Cette landing page moderne et immersive présente de manière claire, captivante et professionnelle le projet Sentinelle Verte : un système innovant visant à surveiller, protéger et sensibiliser sur les enjeux environnementaux grâce à des technologies numériques et à l’intelligence artificielle.
 
----
+
 
 ## 🎯 Vision du Projet
 
@@ -15,7 +15,7 @@ Sentinelle Verte vise à :
 - Fournir des outils numériques pour suivre l’impact des initiatives  
 - Encourager un mode de vie plus responsable, durable et conscient  
 
----
+
 
 ## 🌱 Pourquoi Sentinelle Verte ?
 
@@ -28,7 +28,7 @@ Face aux défis environnementaux actuels :
 
 Sentinelle Verte propose une **réponse moderne et proactive**, permettant à chaque citoyen d’agir concrètement et de mesurer l’impact de ses actions.
 
----
+
 
 ## ✨ Fonctionnalités de la Landing Page
 
@@ -58,7 +58,7 @@ La landing page n’est pas qu’une vitrine, c’est un **outil d’engagement 
 - Participer à des initiatives locales  
 - S’abonner aux mises à jour et alertes  
 
----
+
 
 ## 👤 Public cible
 
@@ -68,7 +68,7 @@ La landing page n’est pas qu’une vitrine, c’est un **outil d’engagement 
 - **Entreprises responsables** : soutenir leurs initiatives RSE  
 - **Communautés locales et familles** : s’engager et agir au quotidien  
 
----
+
 
 ## 📌 Valeur ajoutée du projet
 
@@ -106,4 +106,3 @@ Ensemble, faisons de **Sentinelle Verte** un mouvement durable et puissant pour 
 
 
 
-Ce projet est sous licence **MIT**, permettant la réutilisation, la modification et la redistribution avec attribution.
